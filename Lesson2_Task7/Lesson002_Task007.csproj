@@ -7,7 +7,7 @@
     <ProjectGuid>{DB0516ED-9952-4CC6-AC26-5A5456AFCEE1}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Lesson2_Task7</RootNamespace>
+    <RootNamespace>Lesson002_Task007</RootNamespace>
     <AssemblyName>Lesson2_Task7</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
